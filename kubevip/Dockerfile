@@ -1,1 +1,1 @@
-ghcr.io/kube-vip/kube-vip:v0.6.4
+FROM ghcr.io/kube-vip/kube-vip:v0.6.4
